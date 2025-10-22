@@ -6,7 +6,7 @@
 ---
 
 ## 📚 Tabla de Contenidos
-1. [Tarea 1: Programas con funciones predefinidas](#tarea-1)
+1. [Tarea 1: Programas con funciones predefinidas](https://github.com/jacquigv-3/Tarea-1-Funciones-predefinidas/tree/main)
 2. [Tarea 2: Problemas con funciones](#tarea-2)
 3. [Tarea 3: Problemas de repaso](#tarea-3)
 4. [Tarea 4: Programas con listas](#tarea-4)
