@@ -7,7 +7,7 @@
 
 ## 📚 Tabla de Contenidos
 1. [Tarea 1: Programas con funciones predefinidas](https://github.com/jacquigv-3/Tarea-1-Funciones-predefinidas/tree/main)
-2. [Tarea 2: Problemas con funciones](#tarea-2)
+2. [Tarea 2: Problemas con funciones](https://github.com/jacquigv-3/Tarea-2-Problemas-que-Utilizan-Funciones)
 3. [Tarea 3: Problemas de repaso](#tarea-3)
 4. [Tarea 4: Programas con listas](#tarea-4)
 5. [Tarea 5: Programas con matrices](#tarea-5)
@@ -23,7 +23,7 @@ Descripción: Uso de funciones integradas de Python para resolver problemas.
 
 ### Tarea 2: Problemas que Utilizan Funciones
 Descripción: Implementación de funciones personalizadas.
-- [Código](https://github.com/tu-usuario/tu-repo-tarea2)
+- [Código](https://github.com/jacquigv-3/Tarea-2-Problemas-que-Utilizan-Funciones/blob/main/Tarea_2_Problemas_que_Utilizan_Funciones.ipynb)
 
 ### Tarea 3: Problemas de Repaso
 Descripción: Ejercicios integradores para reforzar conceptos.
