@@ -19,7 +19,7 @@
 
 ### Tarea 1: Programas utilizando funciones predefinidas
 Descripción: Uso de funciones integradas de Python para resolver problemas.
-- [Código](https://github.com/tu-usuario/tu-repo-tarea1)
+- [Código]([https://github.com/tu-usuario/tu-repo-tarea1](https://github.com/jacquigv-3/Tarea-1-Funciones-predefinidas/tree/main))
 
 ### Tarea 2: Problemas que Utilizan Funciones
 Descripción: Implementación de funciones personalizadas.
